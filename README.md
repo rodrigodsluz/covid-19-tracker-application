@@ -1,4 +1,4 @@
-## The current situation in the world isn't great, but what can we as developers to do make it better?
+## The current situation in the world isn't great, but what can we as developers do to make it better?
 
 Well, one thing that we can do is take an API which just has a lot of data and then we can visualize it, to help spreading the awareness.
 
