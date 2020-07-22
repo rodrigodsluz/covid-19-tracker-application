@@ -20,5 +20,10 @@ This chart contains a lof of data, but if we didn't create a chart, if just had 
 
 Also, in this application we will be able to choose all the countries statistics, so we can see the data of a specific country.
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+Setup: 
+- ```npm install```
+- ```yarn start```
+  
 
