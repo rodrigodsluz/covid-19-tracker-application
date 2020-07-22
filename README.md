@@ -2,7 +2,7 @@
 
 The project is going to fetch the live data from the API using Async/Await syntax. I'm also using React Hooks with the addition of Charts.js, Material UI, and many different modules. 
 
-It can be helpful to have a strong understanding of React's workflow; including data fetching, hooks, folder structure, and more
+It can be helpful to have a strong understanding of React's workflow; including data fetching, hooks, folder structure, and more.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
