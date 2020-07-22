@@ -1,10 +1,12 @@
-## This repository contains a COVID-19 Tracker/Stats Application. The project is going to fetch the live data from the API using Async/Await syntax. I'm also using React Hooks with the addition of Charts.js, Material UI, and many different modules. 
+## This repository contains a COVID-19 Tracker/Stats Application. 
+
+The project is going to fetch the live data from the API using Async/Await syntax. I'm also using React Hooks with the addition of Charts.js, Material UI, and many different modules. 
 
 It can be helpful to have a strong understanding of React's workflow; including data fetching, hooks, folder structure, and more
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Coronavirus is, unfortunately, spreading through the entire planet. The current situation in the world isn't great, but what can we, as developers, do to make it better?
+## Coronavirus is, unfortunately, spreading through the entire planet. The current situation in the world isn't great, but what can we, as developers, do to make it better?
 
 Well, one thing that we can do is take an API which just has a lot of data and then we can visualize it, to help spreading the awareness.
 
