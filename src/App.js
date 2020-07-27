@@ -29,7 +29,6 @@ class App extends React.Component{
 
     return(
       <div className={styles.container}>
-        <div>Testing to see if it updates and deploy automatically by itself just by git push</div>
         <img className={styles.image} src={coronaImage} alt="COVID-19"/>
         <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange}/>
