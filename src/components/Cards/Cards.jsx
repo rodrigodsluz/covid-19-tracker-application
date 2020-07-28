@@ -44,7 +44,7 @@
               <Typography variant="body2">Number of deaths caused by COVID-19</Typography>
             </CardContent>
           </Grid>
-        </Grid>
+        </Grid> 
       </div>
     )
   }
