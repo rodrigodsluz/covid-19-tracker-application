@@ -1,3 +1,5 @@
+# 👉 Deployed website: https://covid19numbers.herokuapp.com/
+
 ## This repository contains a COVID-19 Tracker/Stats Application. 
 
 The project is going to fetch the live data from the API using Async/Await syntax. I'm also using React Hooks with the addition of Charts.js, Material UI, and many different modules. 
