@@ -1,4 +1,4 @@
-# 👉 Deployed website: https://covid19numbers.herokuapp.com/
+## 👉 Deployed website: https://covid19numbers.herokuapp.com/
 
 ## This repository contains a COVID-19 Tracker/Stats Application. 
 
