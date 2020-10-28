@@ -23,7 +23,7 @@ Also, in this application we will be able to choose all the countries statistics
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Setup: 
-- ```npm install```
+- ```yarn install```
 - ```yarn start```
   
 
