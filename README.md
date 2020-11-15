@@ -1,3 +1,9 @@
+<div align="center">
+   <p>You can acess the website at: https://covid19statswebsite.netlify.com/</p>  
+</div> 
+
+![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+
 ## This repository contains a COVID-19 Tracker/Stats Application. 
 
 The project is going to fetch the live data from the API using Async/Await syntax. I'm also using React Hooks with the addition of Charts.js, Material UI, and many different modules. 
